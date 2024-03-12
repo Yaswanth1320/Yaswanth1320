@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanth1320" alt="yaswanth1320" /></a> </p>
 
-- 🔭 I’m currently working on [chat-app](https://github.com/Yaswanth1320/React-pages/tree/main/chat-app)
+- 🔭 I’m currently working on [Figma-Clone](https://github.com/Yaswanth1320/NextJs/tree/main/figma-clone)
 
-- 🌱 I’m currently learning **Nextjs,Shadcn,Clerk**
+- 🌱 I’m currently learning **liveblocks,Dart,Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yaswanth1320](https://github.com/Yaswanth1320)
 
