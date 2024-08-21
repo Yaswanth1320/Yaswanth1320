@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaswanth1320" alt="yaswanth1320" /></a> </p>
 
-- 🔭 I’m currently working on [InstaChat](https://github.com/Yaswanth1320/React-pages/tree/main/instachat)
+- 🔭 I’m currently working on [Redis](https://github.com/Yaswanth1320/Redis-app)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Redis,Kafka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yaswanth1320](https://github.com/Yaswanth1320)
 
