@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Redis](https://github.com/Yaswanth1320/Redis-app)
 
-- 🌱 I’m currently learning **Redis,Kafka**
+- 🌱 I’m currently learning **Redis,Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yaswanth1320](https://github.com/Yaswanth1320)
 
